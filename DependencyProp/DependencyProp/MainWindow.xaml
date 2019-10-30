@@ -1,0 +1,77 @@
+﻿<Window x:Class="DependencyProp.MainWindow"
+        x:Name="wd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DependencyProp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <DataTemplate x:Key="DtmpFirstName">
+            <TextBox Margin="4" Text="{Binding Path=strFirstName}"/>
+        </DataTemplate>
+
+        <DataTemplate x:Key="DtmpLastName">
+            <TextBox Margin="4" Text="{Binding Path=strLastName}"/>
+        </DataTemplate>
+
+        <DataTemplate x:Key="DtmpAge">
+            <TextBox Margin="4" Text="{Binding Path=nAge}"/>
+        </DataTemplate>
+
+        <DataTemplate x:Key="DtmpFirstName2">
+            <TextBox Margin="4" Text="{Binding Path=StrFirstName, Mode=TwoWay}" />
+        </DataTemplate>
+
+        <DataTemplate x:Key="DtmpLastName2">
+            <TextBox Margin="4" Text="{Binding Path=StrLastName, Mode=TwoWay}" />
+        </DataTemplate>
+
+        <DataTemplate x:Key="DtmpFullName">
+            <TextBox Margin="4" Text="{Binding Path=StrFullName, Mode=TwoWay}"/>
+        </DataTemplate>
+        
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Margin="4" Text="First Name:" VerticalAlignment="Center" Grid.Row="0" Grid.Column="0"/>
+        <ContentPresenter Content="{Binding Path=cPerson1}" ContentTemplate="{StaticResource DtmpFirstName}" Grid.Row="0" Grid.Column="1"/>
+
+
+        <TextBlock Margin="4" Text="Last Name: " VerticalAlignment="Center" Grid.Row="1" Grid.Column="0"/>
+        <ContentPresenter Content="{Binding Path=cPerson1}" ContentTemplate="{StaticResource DtmpLastName}" Grid.Row="1" Grid.Column="1"/>
+
+        <TextBlock Margin="4" Text="Age: " VerticalAlignment="Center" Grid.Row="2" Grid.Column="0"/>
+        <ContentPresenter Content="{Binding Path=cPerson1}" ContentTemplate="{StaticResource DtmpAge}" Grid.Row="2" Grid.Column="1"/>
+
+        <TextBlock Margin="4" Text="FirstName" VerticalAlignment="Center" Grid.Row="4" Grid.Column="0"/>
+        <ContentPresenter Content="{Binding Path=cPerson2, Mode=TwoWay}" ContentTemplate="{StaticResource DtmpFirstName2}" Grid.Row="4" Grid.Column="1"/>
+
+        <TextBlock Margin="4" Text="LastName" VerticalAlignment="Center" Grid.Row="5" Grid.Column="0"/>
+        <ContentPresenter Content="{Binding Path=cPerson2, Mode=TwoWay}" ContentTemplate="{StaticResource DtmpLastName2}" Grid.Row="5" Grid.Column="1"/>
+
+        <TextBlock Margin="4" Text="Full Name" VerticalAlignment="Center" Grid.Row="6" Grid.Column="0"/>
+        <ContentPresenter Content="{Binding Path=cPerson2, Mode=TwoWay}" ContentTemplate="{StaticResource DtmpFullName}" Grid.Row="6" Grid.Column="1"/>
+
+        <Viewbox Margin="4" VerticalAlignment="Center" Grid.Row="7" Grid.Column="0">
+            <TextBlock Text="{Binding ElementName = wd , Path = nCounter}"/>
+        </Viewbox>
+
+    </Grid>
+</Window>

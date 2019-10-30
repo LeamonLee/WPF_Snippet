@@ -1,0 +1,14 @@
+C:\WPF_Projects\DependencyProp\DependencyProp\bin\Debug\DependencyProp.exe.config
+C:\WPF_Projects\DependencyProp\DependencyProp\obj\Debug\DependencyProp.csprojResolveAssemblyReference.cache
+C:\WPF_Projects\DependencyProp\DependencyProp\obj\Debug\App.g.cs
+C:\WPF_Projects\DependencyProp\DependencyProp\obj\Debug\DependencyProp_MarkupCompile.cache
+C:\WPF_Projects\DependencyProp\DependencyProp\bin\Debug\DependencyProp.exe
+C:\WPF_Projects\DependencyProp\DependencyProp\bin\Debug\DependencyProp.pdb
+C:\WPF_Projects\DependencyProp\DependencyProp\obj\Debug\MainWindow.g.cs
+C:\WPF_Projects\DependencyProp\DependencyProp\obj\Debug\DependencyProp_MarkupCompile.lref
+C:\WPF_Projects\DependencyProp\DependencyProp\obj\Debug\MainWindow.baml
+C:\WPF_Projects\DependencyProp\DependencyProp\obj\Debug\DependencyProp.g.resources
+C:\WPF_Projects\DependencyProp\DependencyProp\obj\Debug\DependencyProp.Properties.Resources.resources
+C:\WPF_Projects\DependencyProp\DependencyProp\obj\Debug\DependencyProp.csproj.GenerateResource.Cache
+C:\WPF_Projects\DependencyProp\DependencyProp\obj\Debug\DependencyProp.exe
+C:\WPF_Projects\DependencyProp\DependencyProp\obj\Debug\DependencyProp.pdb

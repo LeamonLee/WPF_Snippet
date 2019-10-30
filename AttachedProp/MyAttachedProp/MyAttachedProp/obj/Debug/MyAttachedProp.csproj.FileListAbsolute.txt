@@ -1,0 +1,15 @@
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\bin\Debug\MyAttachedProp.exe.config
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\bin\Debug\MyAttachedProp.exe
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\bin\Debug\MyAttachedProp.pdb
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\MyAttachedProp.csprojResolveAssemblyReference.cache
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\MainWindow.g.cs
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\App.g.cs
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\MyAttachedProp_MarkupCompile.cache
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\MyAttachedProp_MarkupCompile.lref
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\MainWindow.baml
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\MyAttachedProp.g.resources
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\MyAttachedProp.Properties.Resources.resources
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\MyAttachedProp.csproj.GenerateResource.Cache
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\MyAttachedProp.exe
+C:\WPF_Projects\AttachedProp\MyAttachedProp\MyAttachedProp\obj\Debug\MyAttachedProp.pdb

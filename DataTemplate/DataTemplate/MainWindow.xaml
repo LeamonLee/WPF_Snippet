@@ -1,0 +1,25 @@
+﻿<Window x:Class="DataTemplate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataTemplate"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <DataTemplate x:Key="myDataTemplate1">
+            <Label Content="{Binding Path = nAge}" Foreground="Red" FontWeight="Bold"/>
+        </DataTemplate>
+    </Window.Resources>
+    <StackPanel>
+        <ContentPresenter Content="{Binding cGuy1}">
+            <ContentPresenter.ContentTemplate>
+                <DataTemplate>
+                    <Label Content="{Binding Path = strName}" Foreground="Red" FontWeight="Bold"/>
+                </DataTemplate>
+            </ContentPresenter.ContentTemplate>
+        </ContentPresenter>
+        <ContentPresenter Content="{Binding cGuy1}" ContentTemplate="{StaticResource myDataTemplate1}"/>
+
+    </StackPanel>
+</Window>

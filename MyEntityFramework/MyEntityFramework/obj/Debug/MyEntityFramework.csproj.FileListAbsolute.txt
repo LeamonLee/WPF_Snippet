@@ -1,0 +1,1 @@
+C:\WPF_Projects\MyEntityFramework\MyEntityFramework\bin\Debug\MyEntityFramework.exe.config

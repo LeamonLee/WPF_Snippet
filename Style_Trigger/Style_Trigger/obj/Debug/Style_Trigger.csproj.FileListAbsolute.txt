@@ -1,0 +1,14 @@
+C:\WPF_Projects\Style_Trigger\Style_Trigger\bin\Debug\Style_Trigger.exe.config
+C:\WPF_Projects\Style_Trigger\Style_Trigger\bin\Debug\Style_Trigger.exe
+C:\WPF_Projects\Style_Trigger\Style_Trigger\bin\Debug\Style_Trigger.pdb
+C:\WPF_Projects\Style_Trigger\Style_Trigger\obj\Debug\Style_Trigger.csprojResolveAssemblyReference.cache
+C:\WPF_Projects\Style_Trigger\Style_Trigger\obj\Debug\MainWindow.g.cs
+C:\WPF_Projects\Style_Trigger\Style_Trigger\obj\Debug\App.g.cs
+C:\WPF_Projects\Style_Trigger\Style_Trigger\obj\Debug\Style_Trigger_MarkupCompile.cache
+C:\WPF_Projects\Style_Trigger\Style_Trigger\obj\Debug\Style_Trigger_MarkupCompile.lref
+C:\WPF_Projects\Style_Trigger\Style_Trigger\obj\Debug\MainWindow.baml
+C:\WPF_Projects\Style_Trigger\Style_Trigger\obj\Debug\Style_Trigger.g.resources
+C:\WPF_Projects\Style_Trigger\Style_Trigger\obj\Debug\Style_Trigger.Properties.Resources.resources
+C:\WPF_Projects\Style_Trigger\Style_Trigger\obj\Debug\Style_Trigger.csproj.GenerateResource.Cache
+C:\WPF_Projects\Style_Trigger\Style_Trigger\obj\Debug\Style_Trigger.exe
+C:\WPF_Projects\Style_Trigger\Style_Trigger\obj\Debug\Style_Trigger.pdb

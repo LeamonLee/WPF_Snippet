@@ -1,0 +1,14 @@
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\bin\Debug\ControlTemplate_practice.exe.config
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\obj\Debug\ControlTemplate_practice.csprojResolveAssemblyReference.cache
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\obj\Debug\App.g.cs
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\obj\Debug\ControlTemplate_practice_MarkupCompile.cache
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\bin\Debug\ControlTemplate_practice.exe
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\bin\Debug\ControlTemplate_practice.pdb
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\obj\Debug\MainWindow.g.cs
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\obj\Debug\ControlTemplate_practice_MarkupCompile.lref
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\obj\Debug\MainWindow.baml
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\obj\Debug\ControlTemplate_practice.g.resources
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\obj\Debug\ControlTemplate_practice.Properties.Resources.resources
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\obj\Debug\ControlTemplate_practice.csproj.GenerateResource.Cache
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\obj\Debug\ControlTemplate_practice.exe
+C:\WPF_Projects\ControlTemplate_practice\ControlTemplate_practice\obj\Debug\ControlTemplate_practice.pdb

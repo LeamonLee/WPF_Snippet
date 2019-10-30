@@ -1,0 +1,14 @@
+C:\WPF_Projects\DataTemplate\DataTemplate\bin\Debug\DataTemplate.exe.config
+C:\WPF_Projects\DataTemplate\DataTemplate\bin\Debug\DataTemplate.exe
+C:\WPF_Projects\DataTemplate\DataTemplate\bin\Debug\DataTemplate.pdb
+C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.csprojResolveAssemblyReference.cache
+C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\MainWindow.g.cs
+C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\App.g.cs
+C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate_MarkupCompile.cache
+C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate_MarkupCompile.lref
+C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\MainWindow.baml
+C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.g.resources
+C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.Properties.Resources.resources
+C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.csproj.GenerateResource.Cache
+C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.exe
+C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.pdb

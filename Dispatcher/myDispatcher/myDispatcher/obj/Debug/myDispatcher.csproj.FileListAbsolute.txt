@@ -1,0 +1,14 @@
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\bin\Debug\myDispatcher.exe.config
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\bin\Debug\myDispatcher.exe
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\bin\Debug\myDispatcher.pdb
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\obj\Debug\myDispatcher.csprojResolveAssemblyReference.cache
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\obj\Debug\MainWindow.g.cs
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\obj\Debug\App.g.cs
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\obj\Debug\myDispatcher_MarkupCompile.cache
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\obj\Debug\myDispatcher_MarkupCompile.lref
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\obj\Debug\MainWindow.baml
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\obj\Debug\myDispatcher.g.resources
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\obj\Debug\myDispatcher.Properties.Resources.resources
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\obj\Debug\myDispatcher.csproj.GenerateResource.Cache
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\obj\Debug\myDispatcher.exe
+C:\WPF_Projects\Dispatcher\myDispatcher\myDispatcher\obj\Debug\myDispatcher.pdb

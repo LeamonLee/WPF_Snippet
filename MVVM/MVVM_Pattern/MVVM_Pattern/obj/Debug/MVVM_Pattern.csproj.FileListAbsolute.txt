@@ -1,0 +1,15 @@
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\bin\Debug\MVVM_Pattern.exe.config
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\bin\Debug\MVVM_Pattern.exe
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\bin\Debug\MVVM_Pattern.pdb
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\MVVM_Pattern.csprojResolveAssemblyReference.cache
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\App.g.cs
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\MVVM_Pattern_MarkupCompile.cache
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\MVVM_Pattern_MarkupCompile.lref
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\MVVM_Pattern.g.resources
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\MVVM_Pattern.Properties.Resources.resources
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\MVVM_Pattern.csproj.GenerateResource.Cache
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\MVVM_Pattern.exe
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\MVVM_Pattern.pdb
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\View\MainWindow.g.cs
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\View\MainWindow.baml
+C:\WPF_Projects\MVVM\MVVM_Pattern\MVVM_Pattern\obj\Debug\GeneratedInternalTypeHelper.g.cs
