@@ -1,0 +1,17 @@
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\bin\Debug\Tut20_MenuBars.exe.config
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\bin\Debug\Tut20_MenuBars.exe
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\bin\Debug\Tut20_MenuBars.pdb
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\obj\Debug\Tut20_MenuBars.csprojResolveAssemblyReference.cache
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\obj\Debug\MainWindow.g.cs
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\obj\Debug\App.g.cs
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\obj\Debug\Tut20_MenuBars_MarkupCompile.cache
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\obj\Debug\Tut20_MenuBars_MarkupCompile.lref
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\obj\Debug\MainWindow.baml
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\obj\Debug\Tut20_MenuBars.g.resources
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\obj\Debug\Tut20_MenuBars.Properties.Resources.resources
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\obj\Debug\Tut20_MenuBars.csproj.GenerateResource.Cache
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\obj\Debug\Tut20_MenuBars.exe
+Z:\WPF_Exercise\Derek_Tutorial\Tut20_MenuBars\Tut20_MenuBars\obj\Debug\Tut20_MenuBars.pdb
+Z:\WPF_Exercise\Derek_Tutorial\Tut21_ToolBars\Tut20_MenuBars\bin\Debug\Tut20_MenuBars.exe.config
+Z:\WPF_Exercise\Derek_Tutorial\Tut21_ToolBars\Tut20_MenuBars\obj\Debug\Tut20_MenuBars.exe
+Z:\WPF_Exercise\Derek_Tutorial\Tut21_ToolBars\Tut20_MenuBars\obj\Debug\Tut20_MenuBars.pdb

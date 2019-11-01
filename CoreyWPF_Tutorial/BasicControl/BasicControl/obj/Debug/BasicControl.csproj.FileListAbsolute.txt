@@ -1,0 +1,14 @@
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\bin\Debug\BasicControl.exe.config
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\bin\Debug\BasicControl.exe
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\bin\Debug\BasicControl.pdb
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl.csprojResolveAssemblyReference.cache
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\MainWindow.g.cs
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\App.g.cs
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl_MarkupCompile.cache
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl_MarkupCompile.lref
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\MainWindow.baml
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl.g.resources
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl.Properties.Resources.resources
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl.csproj.GenerateResource.Cache
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl.exe
+Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl.pdb

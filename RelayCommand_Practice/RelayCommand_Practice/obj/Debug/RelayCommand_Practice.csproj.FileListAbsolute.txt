@@ -1,0 +1,15 @@
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\bin\Debug\RelayCommand_Practice.exe.config
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\bin\Debug\RelayCommand_Practice.exe
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\bin\Debug\RelayCommand_Practice.pdb
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\RelayCommand_Practice.csprojResolveAssemblyReference.cache
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\MainWindow.g.cs
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\App.g.cs
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\RelayCommand_Practice_MarkupCompile.cache
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\RelayCommand_Practice_MarkupCompile.lref
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\MainWindow.baml
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\RelayCommand_Practice.g.resources
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\RelayCommand_Practice.Properties.Resources.resources
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\RelayCommand_Practice.csproj.GenerateResource.Cache
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\RelayCommand_Practice.exe
+Z:\WPF_Exercise\RelayCommand_Practice\RelayCommand_Practice\obj\Debug\RelayCommand_Practice.pdb

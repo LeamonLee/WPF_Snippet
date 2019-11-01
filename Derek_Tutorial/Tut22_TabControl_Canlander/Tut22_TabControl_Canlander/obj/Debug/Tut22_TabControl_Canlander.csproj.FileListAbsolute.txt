@@ -1,0 +1,4 @@
+Z:\WPF_Exercise\Derek_Tutorial\Tut22_TabControl_Canlander\Tut22_TabControl_Canlander\bin\Debug\Tut22_TabControl_Canlander.exe.config
+Z:\WPF_Exercise\Derek_Tutorial\Tut22_TabControl_Canlander\Tut22_TabControl_Canlander\obj\Debug\Tut22_TabControl_Canlander.csprojResolveAssemblyReference.cache
+Z:\WPF_Exercise\Derek_Tutorial\Tut22_TabControl_Canlander\Tut22_TabControl_Canlander\obj\Debug\App.g.cs
+Z:\WPF_Exercise\Derek_Tutorial\Tut22_TabControl_Canlander\Tut22_TabControl_Canlander\obj\Debug\Tut22_TabControl_Canlander_MarkupCompile.cache

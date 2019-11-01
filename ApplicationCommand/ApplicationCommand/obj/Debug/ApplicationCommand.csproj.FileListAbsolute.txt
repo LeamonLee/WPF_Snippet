@@ -1,0 +1,14 @@
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\bin\Debug\ApplicationCommand.exe.config
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\bin\Debug\ApplicationCommand.exe
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\bin\Debug\ApplicationCommand.pdb
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\obj\Debug\ApplicationCommand.csprojResolveAssemblyReference.cache
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\obj\Debug\MainWindow.g.cs
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\obj\Debug\App.g.cs
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\obj\Debug\ApplicationCommand_MarkupCompile.cache
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\obj\Debug\ApplicationCommand_MarkupCompile.lref
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\obj\Debug\MainWindow.baml
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\obj\Debug\ApplicationCommand.g.resources
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\obj\Debug\ApplicationCommand.Properties.Resources.resources
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\obj\Debug\ApplicationCommand.csproj.GenerateResource.Cache
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\obj\Debug\ApplicationCommand.exe
+Z:\WPF_Exercise\ApplicationCommand\ApplicationCommand\obj\Debug\ApplicationCommand.pdb

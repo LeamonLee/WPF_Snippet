@@ -1,0 +1,14 @@
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\bin\Debug\WPFBasic.exe.config
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\obj\Debug\WPFBasic.csprojResolveAssemblyReference.cache
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\obj\Debug\MainWindow.g.cs
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\obj\Debug\App.g.cs
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\obj\Debug\WPFBasic_MarkupCompile.cache
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\obj\Debug\WPFBasic_MarkupCompile.lref
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\bin\Debug\WPFBasic.exe
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\bin\Debug\WPFBasic.pdb
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\obj\Debug\MainWindow.baml
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\obj\Debug\WPFBasic.g.resources
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\obj\Debug\WPFBasic.Properties.Resources.resources
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\obj\Debug\WPFBasic.csproj.GenerateResource.Cache
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\obj\Debug\WPFBasic.exe
+Z:\WPF_Exercise\Derek_Tutorial\WPFBasic\WPFBasic\obj\Debug\WPFBasic.pdb
