@@ -12,3 +12,6 @@ Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicContr
 Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl.csproj.GenerateResource.Cache
 Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl.exe
 Z:\WPF_Exercise\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl.pdb
+C:\C#_WPF_Projects\CoreyWPF_Tutorial\BasicControl\BasicControl\bin\Debug\BasicControl.exe.config
+C:\C#_WPF_Projects\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl.exe
+C:\C#_WPF_Projects\CoreyWPF_Tutorial\BasicControl\BasicControl\obj\Debug\BasicControl.pdb

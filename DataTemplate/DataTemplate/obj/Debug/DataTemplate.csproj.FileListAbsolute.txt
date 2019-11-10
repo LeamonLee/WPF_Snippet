@@ -12,3 +12,6 @@ C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.Properties.Reso
 C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.csproj.GenerateResource.Cache
 C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.exe
 C:\WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.pdb
+C:\C#_WPF_Projects\DataTemplate\DataTemplate\bin\Debug\DataTemplate.exe.config
+C:\C#_WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.exe
+C:\C#_WPF_Projects\DataTemplate\DataTemplate\obj\Debug\DataTemplate.pdb

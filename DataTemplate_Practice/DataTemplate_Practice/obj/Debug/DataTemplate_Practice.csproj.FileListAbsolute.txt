@@ -12,3 +12,6 @@ C:\WPF_Projects\DataTemplate_Practice\DataTemplate_Practice\obj\Debug\DataTempla
 C:\WPF_Projects\DataTemplate_Practice\DataTemplate_Practice\obj\Debug\DataTemplate_Practice.csproj.GenerateResource.Cache
 C:\WPF_Projects\DataTemplate_Practice\DataTemplate_Practice\obj\Debug\DataTemplate_Practice.exe
 C:\WPF_Projects\DataTemplate_Practice\DataTemplate_Practice\obj\Debug\DataTemplate_Practice.pdb
+C:\C#_WPF_Projects\DataTemplate_Practice\DataTemplate_Practice\bin\Debug\DataTemplate_Practice.exe.config
+C:\C#_WPF_Projects\DataTemplate_Practice\DataTemplate_Practice\obj\Debug\DataTemplate_Practice.exe
+C:\C#_WPF_Projects\DataTemplate_Practice\DataTemplate_Practice\obj\Debug\DataTemplate_Practice.pdb
